@@ -1,0 +1,65 @@
+﻿.menu_header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 3rem;
+}
+
+.addButton {
+    background-color: var(--mainColor);
+    padding: 1rem 2rem;
+    border-radius: 0.75rem;
+}
+.addButton p {
+    color: white;
+}
+.table {
+    display: flex;
+    align-items: center;
+    width: fit-content;
+    margin: auto;
+    border: 1px solid var(--black);
+    padding: 1rem;
+}
+.tableheader{
+    font-weight: 700;
+    background-color: var(--mainColor);
+}
+.tableheader p {
+    color: white;
+    font-size: 2rem;
+}
+.tabledata{
+    border-top: none;
+}
+.col-1{
+    width: 10rem;
+}
+.col-2 {
+    margin-left: 3rem;
+    width: 10rem;
+}
+.col-3 {
+    margin-left: 10rem;
+    width: 13rem;
+}
+.col-3 form{
+    display: flex;
+}
+
+.actionButton{
+    width: 6rem;
+    background-color: red;
+    border: none;
+    font-size: 1rem;
+    padding: 0.75rem 1rem;
+    color: white;
+    margin-left: 1rem;
+    border-radius: 0.75rem;
+}
+.editButton {
+    text-align: center;
+    margin-left: 0;
+    background-color: #426cbf;
+}

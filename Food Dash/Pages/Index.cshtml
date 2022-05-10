@@ -1,0 +1,21 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home";
+}
+<link rel="stylesheet" href="~/css/Index.css" />
+
+<div class="container">
+    <div>
+        <h1>Welcome to Food Dash</h1>
+        <div class="button_container">
+            <div class="view button">
+                <a asp-page="/Menu"><p>View Menu</p></a>
+            </div>
+            <div class="order button">
+                <a asp-page="/Order"><p>Order Menu</p></a>
+            </div>
+        </div>
+        
+    </div>
+</div>

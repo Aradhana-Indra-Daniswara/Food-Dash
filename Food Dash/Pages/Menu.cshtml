@@ -1,0 +1,39 @@
+﻿@page
+@model Food_Dash.Pages.MenuModel
+@{
+    ViewData["Title"] = "Menu";
+}
+<link rel="stylesheet" href="~/css/Menu.css" />
+<div class="container">
+    <div class="menu_header">
+        <h1>Menu</h1>
+        <a asp-page="/AddMenu" class="addButton"><p>Add Menu</p></a>
+    </div>
+    <div class="tableheader table">
+        <div class="col-1">
+            <p>Name</p>
+        </div>
+        <div class="col-2">
+            <p>Price</p>
+        </div>
+        <div class="col-3">
+            <p>Options</p>
+        </div>
+    </div>
+    <div class="tabledata table">
+        <div class="col-1">
+            <p>Rendang</p>
+        </div>
+        <div class="col-2">
+            <p>15000</p>
+        </div>
+        <div class="col-3">
+            <form method="post">
+                <a class="editButton actionButton">Edit</a>
+                <input type="submit" value="Delete" class="deleteButton actionButton"/>
+            </form>
+        </div>
+    </div>
+
+
+</div>

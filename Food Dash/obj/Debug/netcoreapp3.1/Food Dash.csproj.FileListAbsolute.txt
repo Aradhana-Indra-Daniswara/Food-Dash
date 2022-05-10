@@ -1,0 +1,37 @@
+C:\Users\aradh\OneDrive\Documents\ASP.NET Project\Food Dash\Food Dash\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\aradh\OneDrive\Documents\ASP.NET Project\Food Dash\Food Dash\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\aradh\OneDrive\Documents\ASP.NET Project\Food Dash\Food Dash\bin\Debug\netcoreapp3.1\Food Dash.exe
+C:\Users\aradh\OneDrive\Documents\ASP.NET Project\Food Dash\Food Dash\bin\Debug\netcoreapp3.1\Food Dash.deps.json
+C:\Users\aradh\OneDrive\Documents\ASP.NET Project\Food Dash\Food Dash\bin\Debug\netcoreapp3.1\Food Dash.runtimeconfig.json
+C:\Users\aradh\OneDrive\Documents\ASP.NET Project\Food Dash\Food Dash\bin\Debug\netcoreapp3.1\Food Dash.runtimeconfig.dev.json
+C:\Users\aradh\OneDrive\Documents\ASP.NET Project\Food Dash\Food Dash\bin\Debug\netcoreapp3.1\Food Dash.dll
+C:\Users\aradh\OneDrive\Documents\ASP.NET Project\Food Dash\Food Dash\bin\Debug\netcoreapp3.1\Food Dash.pdb
+C:\Users\aradh\OneDrive\Documents\ASP.NET Project\Food Dash\Food Dash\bin\Debug\netcoreapp3.1\Food Dash.Views.dll
+C:\Users\aradh\OneDrive\Documents\ASP.NET Project\Food Dash\Food Dash\bin\Debug\netcoreapp3.1\Food Dash.Views.pdb
+C:\Users\aradh\OneDrive\Documents\ASP.NET Project\Food Dash\Food Dash\obj\Debug\netcoreapp3.1\Food Dash.csproj.AssemblyReference.cache
+C:\Users\aradh\OneDrive\Documents\ASP.NET Project\Food Dash\Food Dash\obj\Debug\netcoreapp3.1\Food Dash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aradh\OneDrive\Documents\ASP.NET Project\Food Dash\Food Dash\obj\Debug\netcoreapp3.1\Food Dash.AssemblyInfoInputs.cache
+C:\Users\aradh\OneDrive\Documents\ASP.NET Project\Food Dash\Food Dash\obj\Debug\netcoreapp3.1\Food Dash.AssemblyInfo.cs
+C:\Users\aradh\OneDrive\Documents\ASP.NET Project\Food Dash\Food Dash\obj\Debug\netcoreapp3.1\Food Dash.csproj.CoreCompileInputs.cache
+C:\Users\aradh\OneDrive\Documents\ASP.NET Project\Food Dash\Food Dash\obj\Debug\netcoreapp3.1\Food Dash.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aradh\OneDrive\Documents\ASP.NET Project\Food Dash\Food Dash\obj\Debug\netcoreapp3.1\Food Dash.RazorAssemblyInfo.cache
+C:\Users\aradh\OneDrive\Documents\ASP.NET Project\Food Dash\Food Dash\obj\Debug\netcoreapp3.1\Food Dash.RazorAssemblyInfo.cs
+C:\Users\aradh\OneDrive\Documents\ASP.NET Project\Food Dash\Food Dash\obj\Debug\netcoreapp3.1\staticwebassets\Food Dash.StaticWebAssets.Manifest.cache
+C:\Users\aradh\OneDrive\Documents\ASP.NET Project\Food Dash\Food Dash\obj\Debug\netcoreapp3.1\Food Dash.TagHelpers.input.cache
+C:\Users\aradh\OneDrive\Documents\ASP.NET Project\Food Dash\Food Dash\obj\Debug\netcoreapp3.1\Food Dash.TagHelpers.output.cache
+C:\Users\aradh\OneDrive\Documents\ASP.NET Project\Food Dash\Food Dash\obj\Debug\netcoreapp3.1\Food Dash.RazorCoreGenerate.cache
+C:\Users\aradh\OneDrive\Documents\ASP.NET Project\Food Dash\Food Dash\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\aradh\OneDrive\Documents\ASP.NET Project\Food Dash\Food Dash\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\aradh\OneDrive\Documents\ASP.NET Project\Food Dash\Food Dash\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\aradh\OneDrive\Documents\ASP.NET Project\Food Dash\Food Dash\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\aradh\OneDrive\Documents\ASP.NET Project\Food Dash\Food Dash\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\aradh\OneDrive\Documents\ASP.NET Project\Food Dash\Food Dash\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\aradh\OneDrive\Documents\ASP.NET Project\Food Dash\Food Dash\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\aradh\OneDrive\Documents\ASP.NET Project\Food Dash\Food Dash\obj\Debug\netcoreapp3.1\Food Dash.RazorTargetAssemblyInfo.cache
+C:\Users\aradh\OneDrive\Documents\ASP.NET Project\Food Dash\Food Dash\obj\Debug\netcoreapp3.1\Food Dash.RazorTargetAssemblyInfo.cs
+C:\Users\aradh\OneDrive\Documents\ASP.NET Project\Food Dash\Food Dash\obj\Debug\netcoreapp3.1\Food Dash.Views.pdb
+C:\Users\aradh\OneDrive\Documents\ASP.NET Project\Food Dash\Food Dash\obj\Debug\netcoreapp3.1\Food Dash.dll
+C:\Users\aradh\OneDrive\Documents\ASP.NET Project\Food Dash\Food Dash\obj\Debug\netcoreapp3.1\Food Dash.pdb
+C:\Users\aradh\OneDrive\Documents\ASP.NET Project\Food Dash\Food Dash\obj\Debug\netcoreapp3.1\Food Dash.genruntimeconfig.cache
+C:\Users\aradh\OneDrive\Documents\ASP.NET Project\Food Dash\Food Dash\obj\Debug\netcoreapp3.1\Food Dash.csproj.CopyComplete
+C:\Users\aradh\OneDrive\Documents\ASP.NET Project\Food Dash\Food Dash\obj\Debug\netcoreapp3.1\Razor\Pages\Menu.cshtml.g.cs
