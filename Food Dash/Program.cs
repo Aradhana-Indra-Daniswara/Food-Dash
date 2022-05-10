@@ -17,6 +17,7 @@ namespace Food_Dash
         {
             //CreateHostBuilder(args).Build().Run();
             var host = CreateHostBuilder(args).Build();
+            CreateDbIfNotExists(host);
             host.Run();
         }
 
@@ -26,8 +27,7 @@ namespace Food_Dash
             {
                 var services = scope.ServiceProvider;
                 var context = services.GetRequiredService<MenuContext>();
-                //context.Database.EnsureCreated();
-                DbInitializer.Initialize(context);
+                context.Database.EnsureCreated();
             }
         }
 
