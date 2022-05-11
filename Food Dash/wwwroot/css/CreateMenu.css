@@ -1,0 +1,44 @@
+﻿.container{
+    width: 50rem;
+    margin: 0 auto;
+}
+
+.container h1{
+    margin-top: 3rem;
+}
+
+.form {
+    width: 100%;
+    height: 20rem;
+    display: flex;
+    text-align: left;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.form label{
+    display: inline-block;
+    width: 4rem;
+    font-size: 1.15rem;
+    margin-bottom: 1.2rem;
+}
+form > div {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1.2rem;
+}
+
+.data{
+    font-size : 1.15rem;
+    padding: 0.4rem;
+}
+.saveButton{
+    background-color: var(--mainColor);
+    border: none;
+    color: white;
+    font-size: 1rem;
+    border-radius: 0.5rem;
+    padding: 0.5rem 1rem;
+    float: right;
+}

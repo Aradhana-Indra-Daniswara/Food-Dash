@@ -1,0 +1,21 @@
+﻿@page
+@model Food_Dash.Pages.CreateMenuModel
+@{
+	ViewData["Title"] = "Create Menu";
+}
+<link rel="stylesheet" href="~/css/CreateMenu.css" />
+
+<div class = "container">
+	<h1>Create Menu</h1>
+	<div class = "form">
+		<form method="post">
+			<label asp-for="Menu.Name"></label>
+			<input type="text" name="name" asp-for="Menu.Name" class="data"/>
+			<br>
+			<label asp-for="Menu.Price"></label>
+			<input type="text" name="price" asp-for="Menu.Price" class="data"/>
+			<br>
+			<input type="submit" value="Create" class="saveButton"/>
+		</form>
+	</div>
+</div>
