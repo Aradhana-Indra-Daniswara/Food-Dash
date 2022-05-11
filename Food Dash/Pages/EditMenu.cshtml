@@ -6,16 +6,21 @@
 <link rel="stylesheet" href="~/css/EditMenu.css" />
 
 <div class = "container">
-	<h1>Edit menu</h1>
+	<h1>Edit Menu</h1>
 	<div class = "form">
 		<form method="post">
-			<label asp-for="Menu.Name"></label>
-			<input type="text" name="name" placeholder="name" asp-for="Menu.Name" />
+			<div>
+				<label asp-for="Menu.Name"></label>
+				<p class="menuname" asp-route-id="@Model.Menu.Name">@Model.Menu.Name</p>	
+			</div>
+			
 			<br>
-			<label asp-for="Menu.Price"></label>
-			<input type="text" name="price" asp-for="Menu.Price"/>
+			<div>
+				<label asp-for="Menu.Price"></label>
+				<input type="text" name="price" asp-for="Menu.Price" class="data"/>
+			</div>
 			<br>
-			<input type="submit" value="Submit" />
+			<input type="submit" value="Save" class="saveButton"/>
 		</form>
 	</div>
 </div>

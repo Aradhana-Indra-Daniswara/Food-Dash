@@ -33,6 +33,7 @@ namespace Food_Dash.Pages
 
         public async Task<IActionResult> OnPostAsync(string id)
         {
+            Menu.Name = id;
             _context.Attach(Menu).State = EntityState.Modified;
             await _context.SaveChangesAsync();
             return RedirectToPage("./Menu");

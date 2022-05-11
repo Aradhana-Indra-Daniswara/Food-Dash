@@ -1,15 +1,16 @@
-﻿.menu_header{
+﻿.menu_header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 100%;
-    padding: 3rem;
+    width: 50rem;
+    padding: 3rem 0;
+    margin: 0 auto;
 }
 
 .addButton {
     background-color: var(--mainColor);
     padding: 1rem 2rem;
-    border-radius: 0.75rem;
+    border-radius: 0.5rem;
 }
 .addButton p {
     color: white;
@@ -17,7 +18,7 @@
 .table {
     display: flex;
     align-items: center;
-    width: fit-content;
+    width: 50rem;
     margin: auto;
     border: 1px solid var(--black);
     padding: 1rem;
@@ -56,7 +57,8 @@
     padding: 0.75rem 1rem;
     color: white;
     margin-left: 1rem;
-    border-radius: 0.75rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
 }
 .editButton {
     text-align: center;

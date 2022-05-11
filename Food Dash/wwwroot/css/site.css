@@ -1,6 +1,7 @@
 ﻿:root {
     --black: #2c2c2c;
     --mainColor: #1D53BD;
+    font-size: 1.15rem;
 }
 
 * {
@@ -17,7 +18,6 @@ a{
 
 header a:hover p{
     color: var(--mainColor);
-    font-weight: 700;
 }
 
 p {
@@ -31,15 +31,18 @@ header{
     border-bottom: 1px solid var(--black);
 }
 
-header p{
+.logo p{
     font-size: 2rem;
+}
+nav p{
+    font-size: 1.2rem;
 }
 nav {
     display: flex;
     align-items: center; 
 }
 nav > div + div{
-    margin-left: 3rem;
+    margin-left: 2rem;
 }
 
 .logo{
@@ -59,7 +62,6 @@ nav > div + div{
     display: flex;
     align-items: center;
 }
-
 
 
 /* Footer */
