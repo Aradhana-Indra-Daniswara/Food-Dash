@@ -20,20 +20,21 @@
             <p>Options</p>
         </div>
     </div>
-    <div class="tabledata table">
-        <div class="col-1">
-            <p>Rendang</p>
+    @foreach(var menu in Model.Menus){
+        <div class="tabledata table">
+            <div class="col-1">
+                <p>@menu.Name</p>
+            </div>
+            <div class="col-2">
+                <p>@menu.Price</p>
+            </div>
+            <div class="col-3">
+                <form method="post">
+                    <a asp-page="./EditMenu" asp-route-id="@menu.Name" class="editButton actionButton">Edit</a>
+                    <input type="submit" value="Delete" class="deleteButton actionButton"/>
+                    <input type="hidden" name="ID" value="@menu.Name" />
+                </form>
+            </div>
         </div>
-        <div class="col-2">
-            <p>15000</p>
-        </div>
-        <div class="col-3">
-            <form method="post">
-                <a class="editButton actionButton">Edit</a>
-                <input type="submit" value="Delete" class="deleteButton actionButton"/>
-            </form>
-        </div>
-    </div>
-
-
+    }
 </div>

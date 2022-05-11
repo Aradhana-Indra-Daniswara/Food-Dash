@@ -1,0 +1,21 @@
+﻿@page "{id?}"
+@model Food_Dash.Pages.EditMenuModel
+@{
+	ViewData["Title"] = "Edit Menu";
+}
+<link rel="stylesheet" href="~/css/EditMenu.css" />
+
+<div class = "container">
+	<h1>Edit menu</h1>
+	<div class = "form">
+		<form method="post">
+			<label asp-for="Menu.Name"></label>
+			<input type="text" name="name" placeholder="name" asp-for="Menu.Name" />
+			<br>
+			<label asp-for="Menu.Price"></label>
+			<input type="text" name="price" asp-for="Menu.Price"/>
+			<br>
+			<input type="submit" value="Submit" />
+		</form>
+	</div>
+</div>

@@ -27,7 +27,7 @@ namespace Food_Dash
             {
                 var services = scope.ServiceProvider;
                 var context = services.GetRequiredService<MenuContext>();
-                context.Database.EnsureCreated();
+                DbInitializer.Initialize(context);
             }
         }
 

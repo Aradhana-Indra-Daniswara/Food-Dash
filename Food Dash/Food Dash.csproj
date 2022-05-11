@@ -1,9 +1,14 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <RootNamespace>Food_Dash</RootNamespace>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\css\NewFile.css" />
+    <Content Remove="wwwroot\css\NewFile.txt" />
+  </ItemGroup>
 
   <ItemGroup>
     <Folder Include="wwwroot\assets\" />

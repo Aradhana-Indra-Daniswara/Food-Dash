@@ -10,10 +10,9 @@ namespace Food_Dash.Data
         {
             context.Database.EnsureCreated();
 
-            // Look for any Continents.
             if (context.Menus.Any())
             {
-                return;   // DB has been seeded
+                return;  
             }
 
             var Continents = new Menu[]
@@ -24,7 +23,9 @@ namespace Food_Dash.Data
                 new Menu{Name="Nasi Bakar", Price=24000},
                 new Menu{Name="Es Teh Manis", Price=8000},
                 new Menu{Name="Teh Manis Panas", Price=7000},
+                new Menu{Name="Kucing", Price=99999},
             };
+
             foreach (Menu m in Continents)
             {
                 context.Menus.Add(m);
