@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aradh\\OneDrive\\Documents\\ASP.NET Project\\Food Dash\\Food Dash\\Food Dash.csproj": {}
+    "E:\\Food Dash2\\Food Dash\\Food Dash.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aradh\\OneDrive\\Documents\\ASP.NET Project\\Food Dash\\Food Dash\\Food Dash.csproj": {
+    "E:\\Food Dash2\\Food Dash\\Food Dash.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aradh\\OneDrive\\Documents\\ASP.NET Project\\Food Dash\\Food Dash\\Food Dash.csproj",
+        "projectUniqueName": "E:\\Food Dash2\\Food Dash\\Food Dash.csproj",
         "projectName": "Food Dash",
-        "projectPath": "C:\\Users\\aradh\\OneDrive\\Documents\\ASP.NET Project\\Food Dash\\Food Dash\\Food Dash.csproj",
+        "projectPath": "E:\\Food Dash2\\Food Dash\\Food Dash.csproj",
         "packagesPath": "C:\\Users\\aradh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aradh\\OneDrive\\Documents\\ASP.NET Project\\Food Dash\\Food Dash\\obj\\",
+        "outputPath": "E:\\Food Dash2\\Food Dash\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aradh\\AppData\\Roaming\\NuGet\\NuGet.Config",

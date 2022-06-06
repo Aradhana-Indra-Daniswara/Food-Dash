@@ -1,0 +1,81 @@
+E:\Food Dash2\Food Dash\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Food Dash2\Food Dash\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Food Dash2\Food Dash\bin\Debug\netcoreapp3.1\Food Dash 2.exe
+E:\Food Dash2\Food Dash\bin\Debug\netcoreapp3.1\Food Dash 2.deps.json
+E:\Food Dash2\Food Dash\bin\Debug\netcoreapp3.1\Food Dash 2.runtimeconfig.json
+E:\Food Dash2\Food Dash\bin\Debug\netcoreapp3.1\Food Dash 2.runtimeconfig.dev.json
+E:\Food Dash2\Food Dash\bin\Debug\netcoreapp3.1\Food Dash 2.dll
+E:\Food Dash2\Food Dash\bin\Debug\netcoreapp3.1\Food Dash 2.pdb
+E:\Food Dash2\Food Dash\bin\Debug\netcoreapp3.1\Food Dash 2.Views.dll
+E:\Food Dash2\Food Dash\bin\Debug\netcoreapp3.1\Food Dash 2.Views.pdb
+E:\Food Dash2\Food Dash\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Food Dash2\Food Dash\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Food Dash2\Food Dash\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\Food Dash2\Food Dash\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Food Dash2\Food Dash\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Food Dash2\Food Dash\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Food Dash2\Food Dash\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Food Dash2\Food Dash\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Food Dash2\Food Dash\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Food Dash2\Food Dash\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Food Dash2\Food Dash\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Food Dash2\Food Dash\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Food Dash2\Food Dash\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Food Dash2\Food Dash\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Food Dash2\Food Dash\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Food Dash2\Food Dash\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Food Dash2\Food Dash\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\Food Dash2\Food Dash\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Food Dash2\Food Dash\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Food Dash2\Food Dash\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Food Dash2\Food Dash\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Food Dash2\Food Dash\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\Food Dash2\Food Dash\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\Food Dash2\Food Dash\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\Food Dash2\Food Dash\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Food Dash2\Food Dash\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Food Dash2\Food Dash\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Food Dash2\Food Dash\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\Food Dash2\Food Dash\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Food Dash2\Food Dash\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Food Dash2\Food Dash\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Food Dash2\Food Dash\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Food Dash2\Food Dash\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\Food Dash2\Food Dash\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Food Dash2\Food Dash\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Food Dash2\Food Dash\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Food Dash2\Food Dash\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Food Dash2\Food Dash\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\Food Dash2\Food Dash\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Food Dash2\Food Dash\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\Food Dash2\Food Dash\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\Food Dash2\Food Dash\obj\Debug\netcoreapp3.1\Food Dash 2.csproj.AssemblyReference.cache
+E:\Food Dash2\Food Dash\obj\Debug\netcoreapp3.1\Food Dash 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Food Dash2\Food Dash\obj\Debug\netcoreapp3.1\Food Dash 2.AssemblyInfoInputs.cache
+E:\Food Dash2\Food Dash\obj\Debug\netcoreapp3.1\Food Dash 2.AssemblyInfo.cs
+E:\Food Dash2\Food Dash\obj\Debug\netcoreapp3.1\Food Dash 2.csproj.CoreCompileInputs.cache
+E:\Food Dash2\Food Dash\obj\Debug\netcoreapp3.1\Food Dash 2.MvcApplicationPartsAssemblyInfo.cache
+E:\Food Dash2\Food Dash\obj\Debug\netcoreapp3.1\Food Dash 2.RazorAssemblyInfo.cache
+E:\Food Dash2\Food Dash\obj\Debug\netcoreapp3.1\Food Dash 2.RazorAssemblyInfo.cs
+E:\Food Dash2\Food Dash\obj\Debug\netcoreapp3.1\staticwebassets\Food Dash 2.StaticWebAssets.Manifest.cache
+E:\Food Dash2\Food Dash\obj\Debug\netcoreapp3.1\Food Dash 2.TagHelpers.input.cache
+E:\Food Dash2\Food Dash\obj\Debug\netcoreapp3.1\Food Dash 2.TagHelpers.output.cache
+E:\Food Dash2\Food Dash\obj\Debug\netcoreapp3.1\Food Dash 2.RazorCoreGenerate.cache
+E:\Food Dash2\Food Dash\obj\Debug\netcoreapp3.1\Razor\Pages\CreateMenu.cshtml.g.cs
+E:\Food Dash2\Food Dash\obj\Debug\netcoreapp3.1\Razor\Pages\EditMenu.cshtml.g.cs
+E:\Food Dash2\Food Dash\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+E:\Food Dash2\Food Dash\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+E:\Food Dash2\Food Dash\obj\Debug\netcoreapp3.1\Razor\Pages\Menu.cshtml.g.cs
+E:\Food Dash2\Food Dash\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+E:\Food Dash2\Food Dash\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\Food Dash2\Food Dash\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Food Dash2\Food Dash\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\Food Dash2\Food Dash\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\Food Dash2\Food Dash\obj\Debug\netcoreapp3.1\Food Dash 2.RazorTargetAssemblyInfo.cache
+E:\Food Dash2\Food Dash\obj\Debug\netcoreapp3.1\Food Dash 2.RazorTargetAssemblyInfo.cs
+E:\Food Dash2\Food Dash\obj\Debug\netcoreapp3.1\Food Dash 2.Views.pdb
+E:\Food Dash2\Food Dash\obj\Debug\netcoreapp3.1\Food Dash 2.csproj.CopyComplete
+E:\Food Dash2\Food Dash\obj\Debug\netcoreapp3.1\Food Dash 2.dll
+E:\Food Dash2\Food Dash\obj\Debug\netcoreapp3.1\Food Dash 2.pdb
+E:\Food Dash2\Food Dash\obj\Debug\netcoreapp3.1\Food Dash 2.genruntimeconfig.cache
+E:\Food Dash2\Food Dash\obj\Debug\netcoreapp3.1\Razor\Pages\Order.cshtml.g.cs

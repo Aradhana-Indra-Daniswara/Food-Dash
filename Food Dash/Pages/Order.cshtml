@@ -1,0 +1,32 @@
+﻿@page
+@model Food_Dash.Pages.OrderModel
+@{
+    ViewData["Title"] = "";
+}
+<link rel="stylesheet" href="~/css/Order.css" />
+<div class="container">
+    <div>
+        <h1>Orders</h1>
+        <p>@Model.OrderLinks.Count</p>
+        <div class="order-list">
+            @foreach(var order in Model.Orders){
+                <div class="order-card">
+                    <h2>@order.OrderId</h2> 
+                    <h2>@order.CustomerName</h2> 
+                    @{
+                        var menusOrdered =
+                        from o in Model.OrderLinks
+                        where o.OrderId == order.OrderId
+                        select o;
+                    }
+                    
+                    @foreach(var o in menusOrdered)
+                    {
+                        <p>@o.MenuName - @o.Quantity</p>
+                    }
+                </div>
+            }    
+        </div>
+        
+    </div>
+</div>

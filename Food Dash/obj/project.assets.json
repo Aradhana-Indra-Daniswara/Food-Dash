@@ -1198,11 +1198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aradh\\OneDrive\\Documents\\ASP.NET Project\\Food Dash\\Food Dash\\Food Dash.csproj",
-      "projectName": "Food Dash",
-      "projectPath": "C:\\Users\\aradh\\OneDrive\\Documents\\ASP.NET Project\\Food Dash\\Food Dash\\Food Dash.csproj",
+      "projectUniqueName": "E:\\Food Dash2\\Food Dash\\Food Dash 2.csproj",
+      "projectName": "Food Dash 2",
+      "projectPath": "E:\\Food Dash2\\Food Dash\\Food Dash 2.csproj",
       "packagesPath": "C:\\Users\\aradh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aradh\\OneDrive\\Documents\\ASP.NET Project\\Food Dash\\Food Dash\\obj\\",
+      "outputPath": "E:\\Food Dash2\\Food Dash\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aradh\\AppData\\Roaming\\NuGet\\NuGet.Config",
